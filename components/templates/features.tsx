@@ -35,7 +35,7 @@ export default function Features() {
                 <div>
                   <h3 className='text-lg font-semibold'>Object-Oriented</h3>
                   <p className='text-muted-foreground'>
-                    Re-usable customizable components
+                    Re-usable customizable components.
                   </p>
                 </div>
               </li>
@@ -52,7 +52,7 @@ export default function Features() {
               <li className='flex items-center space-x-2'>
                 <Check className='h-6 w-6 text-secondary' />
                 <div>
-                  <h3 className='text-lg font-semibold'>Scalable Infrastructure</h3>
+                  <h3 className='text-lg font-semibold'>Scalable</h3>
                   <p className='text-muted-foreground'>
                     Easily scale your application with our reliable and high-performance infrastructure.
                   </p>
