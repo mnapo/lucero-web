@@ -54,7 +54,7 @@ export default function Features() {
                 <div>
                   <h3 className='text-lg font-semibold'>Scalable</h3>
                   <p className='text-muted-foreground'>
-                    Easily scale your application with our reliable and high-performance infrastructure.
+                    Easily scalate your application with our reliable and high-performance infrastructure.
                   </p>
                 </div>
               </li>

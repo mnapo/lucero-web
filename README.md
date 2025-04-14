@@ -12,4 +12,4 @@ Versión inicial clonada desde:
 https://github.com/kpedrok/nextjs-atomic-shadcn-ui-landing-page.git
 
 Ícono luna:
-https://opensourcesvgicons.com/
+https://opensourcesvgicons.com
