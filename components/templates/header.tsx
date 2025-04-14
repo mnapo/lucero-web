@@ -14,7 +14,7 @@ export default function Header() {
       <nav className="hidden space-x-4 md:flex">
         <NavigationMenuDemo></NavigationMenuDemo>
       </nav>
-      <Link target="_blank" href="https://github.com/mnapo/lucero.lua-framework">
+      <Link target="_blank" href="https://github.com/mnapo/lucero">
         <Button variant="default">
           <Github />
           <p className="pl-1">Star on GitHub</p>
